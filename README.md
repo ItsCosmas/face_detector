@@ -14,7 +14,7 @@ It can be installed easy via pip
 ```sh
 $ pip install pipenv
 ```
-Then navigato to the project directory to run it .
+Then navigate to the project directory to run it .
 ```sh
 $ cd face_detector
 $ pipenv shell
