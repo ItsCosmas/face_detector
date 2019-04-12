@@ -8,7 +8,7 @@ This is a simple face detection code snippet written in python and making use of
 
 ### To Run This Code
 
-I personally used Pipenv to manager my env workflow.
+I personally used Pipenv to manage my env workflow.
 Its a wonderful virtual env manager read about it here https://pipenv.readthedocs.io.
 It can be installed easy via pip
 ```sh
