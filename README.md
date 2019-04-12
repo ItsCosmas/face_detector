@@ -24,7 +24,7 @@ $ python face_detector.py
 
 You can also:
   - Make Some tweaks on your code to improve face detection by playing around with the scaleFactor 
-  -         # Use your own Photo fot detection
+  -         # Use your own Photo for detection
             # img path
             img = cv2.imread(r"cozy.jpg")
             
