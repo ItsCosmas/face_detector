@@ -4,7 +4,7 @@ This is a simple face detection code snippet written in python and making use of
 
 ### A Screenshot
 
-![Screenshot](https://github.com/ItsCosmas/face_detector/detected.JPG) <br />
+![Screenshot](https://github.com/ItsCosmas/face_detector/blob/master/detected.JPG) <br />
 
 ### To Run This Code
 
