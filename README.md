@@ -14,7 +14,7 @@ It can be installed easy via pip
 ```sh
 $ pip install pipenv
 ```
-The navigator to the code's folder to run it .
+Then navigato to the project directory to run it .
 ```sh
 $ cd face_detector
 $ pipenv shell
@@ -22,12 +22,13 @@ $ pipenv install
 $ python face_detector.py
 ```
 
-You can also:
-  - Make Some tweaks on your code to improve face detection by playing around with the scaleFactor 
+You can also: 
+  - Use your own Photograph for face detection
   -         # Use your own Photo for detection
-            # img path
+            # Change this path to your img path
             img = cv2.imread(r"cozy.jpg")
             
+  - Make Some tweaks on your code to improve face detection by playing around with the scaleFactor
   -         # Play around with the scaleFactor below
             faces = face_cascade.detectMultiScale(gray_img,
                                     scaleFactor=1.125,
