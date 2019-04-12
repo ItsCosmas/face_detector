@@ -26,7 +26,7 @@ You can also:
   - Make Some tweaks on your code to improve face detection by playing around with the scaleFactor 
   -         # Play around with the scaleFactor below
             faces = face_cascade.detectMultiScale(gray_img,
-                                    scaleFactor=1.05,
+                                    scaleFactor=1.125,
                                     minNeighbors=5)
 That's it.
 The OpenCV docs contains other great examples and tutorials on the haar cascade find them here https://docs.opencv.org/3.4.3/d7/d8b/tutorial_py_face_detection.html.
